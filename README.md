@@ -19,7 +19,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=harsh23111157&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=harsh23111157&icon=3&color=9)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=harsh23111157&label=Profile%20Views&color=6&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 harsh23111157/harsh23111157 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
